@@ -20,7 +20,7 @@ To run Deal Checker locally, follow these steps:
     ```
 2. Navigate to the project directory.
     ```bash
-    cd College-Project-Minor
+    cd ignou_project
     ```
 3. Install dependencies.
     ```bash
