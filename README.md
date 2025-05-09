@@ -16,7 +16,7 @@ To run Deal Checker locally, follow these steps:
 
 1. Clone this repository to your local machine.
     ```bash
-    git clone https://github.com/anuska18402/College-Project-Minor.git
+    git clone https://github.com/anuska3113/anuska18402.git
     ```
 2. Navigate to the project directory.
     ```bash
